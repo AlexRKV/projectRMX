@@ -1,0 +1,30 @@
+.btn-block {
+  background-color: grey;
+}
+
+button {
+  width: 110px;
+  height: 50px;
+  background-color: #1685cf;
+  max-width: 15px 0;
+  margin: 10px 0 10px 10px;
+  -webkit-transition: 0.5s all;
+  transition: 0.5s all;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
+
+.black {
+  background-color: black;
+}
+
+.green {
+  background-color: green;
+}
+/*# sourceMappingURL=style.css.map */

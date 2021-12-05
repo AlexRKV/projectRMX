@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEQ,QAFA,CACJ,WAAW,CACP,KAAK,AAAC,CACF,OAAO,CAAE,KAAK,CACjB,AAJT,AAKQ,QALA,CACJ,WAAW,CAIP,KAAK,AAAC,CACF,OAAO,CAAE,IAAI,CAChB",
+    "sources": [
+        "../sass/styleone.scss"
+    ],
+    "names": [],
+    "file": "styleone.min.css"
+}
